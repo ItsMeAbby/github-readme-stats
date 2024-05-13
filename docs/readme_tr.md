@@ -297,18 +297,18 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?username=` değerini [WakaTime](https://wakatime.com)'daki kullanıcı adınızla değiştirin.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Demo
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
 
 - Kompakt Düzen
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 
@@ -358,7 +358,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - WakaTime kart
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 

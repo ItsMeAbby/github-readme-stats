@@ -297,18 +297,18 @@ Puedes usar la opción `& layout = compact` para cambiar el diseño de la tarjet
 cambia el valor del parámetro `?username=` a tu username en [WakaTime](https://wakatime.com).
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
 
 - Diseño compacto
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 
@@ -358,7 +358,7 @@ Escoja cualquiera de los [temas por defecto](#themes)
 
 - Tarjeta de WakaTime
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 

@@ -624,18 +624,18 @@ You can use the `&hide_progress=true` option to hide the percentages and the pro
 Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Demo
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&hide_progress=true)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby\&hide_progress=true)
 
 *   Compact layout
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby\&layout=compact)
 
 ***
 
@@ -709,7 +709,7 @@ Choose from any of the [default themes](#themes)
 
 *   WakaTime card
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)
 
 ***
 

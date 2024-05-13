@@ -255,14 +255,14 @@ Utilize a opção `&layout=compact` para mudar o layout do cartão.
 Altere o valor de `?username=` para o seu username do WakaTime.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Demonstração
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 
