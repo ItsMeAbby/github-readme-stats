@@ -92,7 +92,7 @@ Copia y pega esto en el contenido de tu README.md y listo. ¡Simple!
 Cambia el valor de `?username=` al nombre de tu usuario de GitHub.
 
 ```md
-[![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 _Nota: Los rangos disponibles son S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%) y B+ (todos). Los valores se calculan utilizando la [función de distribución acumulada](https://es.wikipedia.org/wiki/Funci%C3%B3n_de_distribuci%C3%B3n) utilizando commits, contribuciones, issues, estrellas, pull request, seguidores y repositorios propios. Puedes investigar más sobre la implementación en [src/calculateRank.js](../src/calculateRank.js)._
@@ -104,7 +104,7 @@ Para ocultar alguna estadística específica, puedes utilizar el parámetro `?hi
 > Opciones: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=contribs,prs)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&hide=contribs,prs)
 ```
 
 ### Agregar contribuciones privadas al total de commits contados
@@ -116,7 +116,7 @@ _Nota: Si estás desplegando este proyecto tú mismo, las contribuciones privada
 > Opciones: `&count_private=true`
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&count_private=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&count_private=true)
 ```
 
 ### Mostrar íconos
@@ -124,7 +124,7 @@ _Nota: Si estás desplegando este proyecto tú mismo, las contribuciones privada
 Para habilitar los íconos, puedes utilizar `show_icons=true` como parámetro, de esta manera:
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&show_icons=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&show_icons=true)
 ```
 
 ### Temas
@@ -134,7 +134,7 @@ Puedes personalizar el aspecto de la tarjeta sin realizar ninguna [personalizaci
 Utiliza el parámetro `?theme=THEME_NAME`, de esta manera:
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
 ```
 
 #### Todos los temas incorporados
@@ -225,16 +225,16 @@ Copia y pegua este código en tu Readme y cambia los enlaces.
 Endpoint: `api/pin?username=itsmeabby&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
+[![Readme Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
+[![Readme Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
 
 Utiliza la variable [show_owner](#customización) para incluir el nombre de usuario del propietario del repositorio.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats&show_owner=true)](https://github.com/itsmeabby/github-readme-stats)
+[![Readme Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats&show_owner=true)](https://github.com/itsmeabby/github-readme-stats)
 
 # Tarjeta de Lenguajes Principales
 
@@ -249,7 +249,7 @@ Copia y pegua este código en tu Readme y cambia los enlaces.
 Endpoint: `api/top-langs?username=itsmeabby`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Excluir repositorios individualmente
@@ -257,7 +257,7 @@ Endpoint: `api/top-langs?username=itsmeabby`
 Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&exclude_repo=github-readme-stats,itsmeabby.github.io)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&exclude_repo=github-readme-stats,itsmeabby.github.io)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Ocultar lenguajes individualmente
@@ -265,7 +265,7 @@ Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios 
 Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&hide=javascript,html)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&hide=javascript,html)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Mostrar más lenguajes
@@ -273,7 +273,7 @@ Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes ind
 Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el número de lenguajes mostrados en la tarjeta. Los valores admitidos son los números enteros entre 1 y 10 (inclusive), y el valor por defecto es 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&langs_count=8)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&langs_count=8)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Diseño Compacto de Tarjeta de Lenguaje
@@ -281,34 +281,34 @@ Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el núm
 Puedes usar la opción `& layout = compact` para cambiar el diseño de la tarjeta.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 
 - Diseño compacto
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
 
 # Estadísticas de la semana de WakaTime
 
 cambia el valor del parámetro `?username=` a tu username en [WakaTime](https://wakatime.com).
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
 
 - Diseño compacto
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 
@@ -316,49 +316,49 @@ cambia el valor del parámetro `?username=` a tu username en [WakaTime](https://
 
 - Por defecto
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby)
 
 - Ocultando ciertas estadísticas
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=contribs,issues)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&hide=contribs,issues)
 
 - Mostrando íconos
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=issues&show_icons=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&hide=issues&show_icons=true)
 
 - Incluyendo todos los commits
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&include_all_commits=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&include_all_commits=true)
 
 - Temas
 
 Escoja cualquiera de los [temas por defecto](#themes)
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
 
 - Gradiente
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personalizando Tarjeta de Estadísticas
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api/?username=itsmeabby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Estableciendo Idioma de la tarjeta
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&locale=es)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api/?username=itsmeabby&locale=es)
 
 - Personalizando Tarjeta de Repo
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=itsmeabby&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin?username=itsmeabby&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Lenguajes Top
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 
 - Tarjeta de WakaTime
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 
@@ -368,10 +368,10 @@ Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para h
 
 ```html
 <a href="https://github.com/itsmeabby/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/itsmeabby/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=convoychat" />
 </a>
 ```
 
@@ -379,7 +379,7 @@ Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para h
 
 #### [Échale un vistazo a este tutorial paso a paso de @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
-Desde que la API de GitHub permite solo 5k peticiones por hora, es posible que mi `https://github-readme-stats.vercel.app/api` pueda llegar al límite. Si lo alojas en tu propio servidor de Vercel, no tendrás que preocuparte de nada. ¡Clickea en el botón "Deploy" para comenzar!
+Desde que la API de GitHub permite solo 5k peticiones por hora, es posible que mi `https://github-readme-stats-itsmeabby.vercel.app/api` pueda llegar al límite. Si lo alojas en tu propio servidor de Vercel, no tendrás que preocuparte de nada. ¡Clickea en el botón "Deploy" para comenzar!
 
 NOTA: Debido a [#58](https://github.com/itsmeabby/github-readme-stats/pull/58) podríamos manejar más de 5k peticiones sin tener ningún problema con el downtime :D
 

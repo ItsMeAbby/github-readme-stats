@@ -91,7 +91,7 @@ Kopieer en plak dit in je markdown content, zo simpel is het!
 Verander de waarde `?username=` naar jou gebruikersnaam.
 
 ```md
-[![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 _Notitie: Beschikbare rangen zijn S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (iedereen).
@@ -106,7 +106,7 @@ Om specifieke statistieken te verbergen, kan je een `?hide=` query parameter toe
 > Opties: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=contribs,prs)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&hide=contribs,prs)
 ```
 
 ### Voeg privé contributies toe aan totale commits.
@@ -118,7 +118,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 > Opties: `&count_private=true`
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&count_private=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&count_private=true)
 ```
 
 ### Laat icoontjes zien
@@ -126,7 +126,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 Om icoontjes te gebruiken kan je `show_icons=true` gebruiken in de query parameter, zoals hier:
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&show_icons=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&show_icons=true)
 ```
 
 ### Thema\'s
@@ -136,7 +136,7 @@ Met ingebouwde thema\'s kan je het uiterlijk van de kaart aanpassen zonder enige
 Gebruik `?theme=THEME_NAME` parameters zo :-
 
 ```md
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
 ```
 
 #### Alle ingeboude thema\'s :-
@@ -225,16 +225,16 @@ Kopieer en plak deze code in je readme en verander de links.
 Eindpunt: `api/pin?username=itsmeabby&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
+[![Readme Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
+[![Readme Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats)](https://github.com/itsmeabby/github-readme-stats)
 
 Gebruikt [show_owner](#customization) variabele om de repo\'s eigenaar toe te voegen
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats&show_owner=true)](https://github.com/itsmeabby/github-readme-stats)
+[![Readme Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats&show_owner=true)](https://github.com/itsmeabby/github-readme-stats)
 
 # Top Programmeertalen Kaart
 
@@ -250,7 +250,7 @@ Kopieer en plak deze code in je readme en verander de links.
 Eindpunt: `api/top-langs?username=itsmeabby`
 
 ```md
-[![Top Talen](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Talen](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Verberg individueele repositories
@@ -258,7 +258,7 @@ Eindpunt: `api/top-langs?username=itsmeabby`
 Je kan de parameter `?exclude_repo=repo1,repo2` gebruiken om individueele repositories te verbergen.
 
 ```md
-[![Top Talen](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&exclude_repo=github-readme-stats,itsmeabby.github.io)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Talen](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&exclude_repo=github-readme-stats,itsmeabby.github.io)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Verberg individueele talen
@@ -266,7 +266,7 @@ Je kan de parameter `?exclude_repo=repo1,repo2` gebruiken om individueele reposi
 Je kan de `?hide=taal1,taal2` parameter gebruiken om individuele programmeer talen te verbergen.
 
 ```md
-[![Top Talen](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&hide=javascript,html)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Talen](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&hide=javascript,html)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Laat meer programmeertalen zien
@@ -274,7 +274,7 @@ Je kan de `?hide=taal1,taal2` parameter gebruiken om individuele programmeer tal
 Je kan de `&langs_count=` optie gebruiken om de hoeveelheid talen op je kaart groter en kleiner te maken. Geldige waardes zijn tussen de 1 en 10 (inclusief), en de standaard waarde is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&langs_count=8)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&langs_count=8)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Compacte Talen Kaart opmaak
@@ -282,30 +282,30 @@ Je kan de `&langs_count=` optie gebruiken om de hoeveelheid talen op je kaart gr
 Je kan de `&layout=compact` optie gebruiken om het kaart ontwerp aan te passen.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Langs](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top programmeertalen](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Top programmeertalen](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 
 - Compacte opmaak
 
-[![Top programmeertalen](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
+[![Top programmeertalen](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby&layout=compact)](https://github.com/itsmeabby/github-readme-stats)
 
 # Wekelijkse WakaTime Statistieken
 
 Verander de `?username=` waarde naar je [WakaTime](https://wakatime.com) gebruikersnaam.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 
 ### Demo
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby&hide_progress=true)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 
@@ -313,49 +313,49 @@ Verander de `?username=` waarde naar je [WakaTime](https://wakatime.com) gebruik
 
 - Standaard
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby)
 
 - Verberg specifieke statestieken
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=contribs,issues)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&hide=contribs,issues)
 
 - Weergeef icoontjes
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=issues&show_icons=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&hide=issues&show_icons=true)
 
 - Voeg alle commits toe
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&include_all_commits=true)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&include_all_commits=true)
 
 - Thema\'s
 
 Kies uit de [standaard thema\'s](#themes)
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&show_icons=true&theme=radical)
 
 - Kleurenverloop
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api?username=itsmeabby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Pas statistieken kaart aan
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api/?username=itsmeabby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Stel je kaart locale (taal) in
 
-![Abby's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&locale=es)
+![Abby's GitHub stats](https://github-readme-stats-itsmeabby.vercel.app/api/?username=itsmeabby&locale=es)
 
 - Pas repo kaart aan.
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=itsmeabby&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-itsmeabby.vercel.app/api/pin?username=itsmeabby&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top programmeertalen
 
-[![Top Programmeertalen](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Top Programmeertalen](https://github-readme-stats-itsmeabby.vercel.app/api/top-langs/?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 
 - WakaTime kaart
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-itsmeabby.vercel.app/api/wakatime?username=@ItsMeAbby)](https://github.com/itsmeabby/github-readme-stats)
 
 ---
 
@@ -365,10 +365,10 @@ Meestal kan je de afbeeldingen niet naast elkaar zetten, op deze manier wel:
 
 ```html
 <a href="https://github.com/itsmeabby/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/itsmeabby/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeabby&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-itsmeabby.vercel.app/api/pin/?username=itsmeabby&repo=convoychat" />
 </a>
 ```
 
@@ -376,7 +376,7 @@ Meestal kan je de afbeeldingen niet naast elkaar zetten, op deze manier wel:
 
 #### [Check de stapsgewijze video tutorial door @codeSTACKr (In het Engels)](https://youtu.be/n6d4KHSKqGk?t=107)
 
-Sinds de GitHub API alleen maar 5k verzoeken per uur toestaat, zou mijn `https://github-readme-stats.vercel.app/api` mogelijk de rate limiet behalen. Als je het op je eigen Vercel server host, dan hoef je je nergens zorgen om te maken. Klik op de deploy knop om te beginnen!
+Sinds de GitHub API alleen maar 5k verzoeken per uur toestaat, zou mijn `https://github-readme-stats-itsmeabby.vercel.app/api` mogelijk de rate limiet behalen. Als je het op je eigen Vercel server host, dan hoef je je nergens zorgen om te maken. Klik op de deploy knop om te beginnen!
 
 NOTITIE: Sinds [#58](https://github.com/itsmeabby/github-readme-stats/pull/58) zouden we geen problemen meer moeten hebben de 5k verzoeken per uur, en verdere downtime :D
 
