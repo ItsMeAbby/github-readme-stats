@@ -91,7 +91,7 @@ Alt kısımdaki kodu Kopyalayın ve yapıştırın. İşte bu kadar. Çok basit!
 `?username=` değerini kendi GitHub kullanıcı adınız ile değiştirin.
 
 ```md
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
+[![Abby'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=itsmeabby)](https://github.com/itsmeabby/github-readme-stats)
 ```
 _Not: Şu sıralamalar mevcut: S+ (en üst 1%), S (en üst 25%), A++ (en üst 45%), A+ (en üst 60%), and B+ (herkes).
 Buradaki değerler [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) ile hesaplanırken; commitler, katkılar, hatalar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar (repository) göz önünde bulundurulamaktadır.
@@ -316,37 +316,37 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=contribs,issues)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=issues&show_icons=true)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&include_all_commits=true)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&include_all_commits=true)
 
 - Temalar
 
 [default themes](#themes) adresinden istediğiniz temayı seçin.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeabby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&locale=es)
+![Abby's GitHub stats](https://github-readme-stats.vercel.app/api/?username=itsmeabby&locale=es)
 
 - Repo kartı düzenleyin
 
